@@ -1,0 +1,15 @@
+body{
+background-image: url("file:///D:/Dreampython/web_development/Virtual_assistent/internship_major/background.png");
+background-color: rgb(129, 196, 227);
+}
+/* this code is basically for showing error message */
+.error-message {
+    color: red;
+    font-size: 1em;
+    display: none; /* Initially it will be hidden */
+  }
+  
+  .form-control:invalid {
+    border-color: red;
+  }
+  
